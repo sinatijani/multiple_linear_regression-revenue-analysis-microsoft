@@ -61,4 +61,4 @@ This project employed multiple regression analysis to model Microsoft's quarterl
     
 5.  Communication of analytical findings.
 
-This format provides a structured and professional overview of your project, highlighting your skills and the analytical process.
+Please read the report for the full details
